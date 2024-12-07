@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+Este libro es una guía para hacer reproducible los ejercicios seguidos en el curso de Humanitarian Open Street Maps.
+
+[Humanitarian Use of OSM Data Course](https://hot.learnworlds.com/course/humanitarian-use-osm?msg=not-logged-in)

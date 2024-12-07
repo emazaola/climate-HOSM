@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Final-Work"
+  author: "Gisarte"
+  date: "5/12/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - AOI-Identification.qmd
+    - Flood_affect-infra.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+
+format:
+  html:
+    css: custom.css
+    theme: flatly
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    
+editor: source  
+ 
+lang: es
+language:
+  en:
+    toc-title-document: "Table of contents"
+    title-block-author-single: "Author"
+    title-block-author-plural: "Authors"
+  es:
+    toc-title-document: "Tabla de contenidos"
+    title-block-author-single: "Autor"
+    title-block-author-plural: "Autores"
+
+
+
+
